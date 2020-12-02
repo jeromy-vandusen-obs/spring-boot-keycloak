@@ -1,13 +1,11 @@
-package com.rarysoft.simpleui;
+package com.rarysoft.sbkc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SimpleUiApplicationTests {
-
+class SpringBootKeycloakApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
